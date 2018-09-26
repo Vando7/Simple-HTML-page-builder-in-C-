@@ -1,4 +1,4 @@
-# Simple HTML page builder in CPP
+# Simple HTML page builder in CPP (VS Community 2017)
 An HTML page builder written in C++. It uses key principles of OOP like polymorphism, encapsulation and inheritance.
 # How it works and how it's structured
 ### Usage
